@@ -16,7 +16,7 @@
 <br>
 레이아웃 박스를 잡는 방법을 확실히 알 수 있었습니다.
 <br>
--스크린샷
 <br>
+-스크린샷
 <br>
 <a href="https://ibb.co/D5JnV4y"><img src="https://i.ibb.co/dGTyWBq/round.png" alt="round" border="0"></a>
